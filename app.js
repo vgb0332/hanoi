@@ -8,7 +8,7 @@ var app = express();
 
 // var router = require('./routes/index')(app);
 
-
+console.log('app started');
 
 
 // view engine setup
